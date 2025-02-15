@@ -1440,8 +1440,8 @@ export const customersData = [
   },
   {
     CustomerID: 1039,
-    CustomerName: 'Christopher Jamil',
-    CustomerEmail: 'jamil@gmail.com',
+    CustomerName: 'Priyansh Sultania',
+    CustomerEmail: 'psultania1000@gmail.com',
     ProjectName: 'MedicalPro WP Theme',
     Status: 'Completed',
     CustomerImage: avatar,
